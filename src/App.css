@@ -1,0 +1,12 @@
+.weatherBg{
+  background: url(https://cdn.wccftech.com/wp-content/uploads/2017/08/accuweather.jpg);
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-repeat: no-repeat;
+}
+.heading{
+  color: white;
+}
