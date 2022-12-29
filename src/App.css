@@ -22,3 +22,9 @@
   height: 100px;
   margin-top: 2rem;
 }
+.weather-city{
+  font-size: 35px;
+}
+.weather-temp{
+  font-size: 45px;
+}
