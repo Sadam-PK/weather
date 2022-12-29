@@ -11,3 +11,14 @@
   color: white;
   font-weight: 700;
 }
+.weather-result-box{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+
+}
+.weather-icon{
+  width: 100px;
+  height: 100px;
+  margin-top: 2rem;
+}
